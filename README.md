@@ -5,7 +5,7 @@ This project is currently in the development stage.
 
 ## Live Preview
 
-![Homepage](Homepage.png)
+![Homepage](code.me.png)
 
 [Try it yourself!](https://kevans0625.github.io/Code.me/) 
 

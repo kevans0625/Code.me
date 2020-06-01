@@ -68,10 +68,6 @@ $ npm run start:prod
 ## License
 This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
 
-
-## License
-This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
-
 ## Acknowledgments
 * CodeWars API - code challenge arrays
 * [Colin Lord](https://codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6) - for horizontal scrolling containers

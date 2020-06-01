@@ -4,6 +4,9 @@ Welcome to code.me! This full-stack application is a simplistic code challenge a
 This project is currently in the development stage. 
 
 ## Live Preview
+
+![Homepage](Homepage.png)
+
 [Try it yourself!](https://kevans0625.github.io/Code.me/) 
 
 ## Built With

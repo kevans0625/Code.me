@@ -34,6 +34,40 @@ SO THAT [I can meet other Bookworms and learn about new books].
 ## Features 
 * Get three different levels of code challenges 
 * Easily save your favorite challenges.
+### Install
+
+Some basic Git commands are:
+
+```
+$ git clone https://github.com/kevans0625/BookMart.git
+$ cd project
+$ npm install
+
+```
+
+### Simple build for production
+
+```
+$ npm run build
+
+```
+
+### Run the application for development
+
+```
+$ npm run start:dev
+
+```
+
+### Run the application for production
+
+```
+$ npm run start:prod
+
+```
+## License
+This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
+
 
 ## License
 This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
